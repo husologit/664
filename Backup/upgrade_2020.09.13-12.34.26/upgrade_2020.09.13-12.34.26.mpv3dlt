@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MotionPerfectLayout>
+  <Contents>
+    <Content Name="document_f02b0a9aed84437f9708358f13600e1c">
+      <Program Name="MIAN" Process="-1" />
+    </Content>
+  </Contents>
+  <LayoutRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <RootPanel Orientation="Horizontal">
+      <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="364">
+        <LayoutAnchorablePane Id="46dca546-571a-41f9-8258-1532068c6841" DockWidth="364" FloatingWidth="200" FloatingHeight="600" FloatingLeft="NaN" FloatingTop="NaN">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Controller" IsSelected="True" ContentId="tool_ControllerTreeControl" LastActivationTimeStamp="04/29/2020 17:04:48" />
+        </LayoutAnchorablePane>
+      </LayoutAnchorablePaneGroup>
+      <LayoutPanel Orientation="Vertical">
+        <LayoutDocumentPaneGroup Orientation="Horizontal">
+          <LayoutDocumentPane>
+            <LayoutDocument Title="MIAN" IsSelected="True" IsLastFocusedDocument="True" ContentId="document_f02b0a9aed84437f9708358f13600e1c" LastActivationTimeStamp="04/29/2020 19:04:23" />
+          </LayoutDocumentPane>
+        </LayoutDocumentPaneGroup>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="300">
+          <LayoutAnchorablePane DockHeight="300">
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="tool_OutputWindow" LastActivationTimeStamp="04/29/2020 14:37:04" />
+          </LayoutAnchorablePane>
+          <LayoutAnchorablePane>
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Compile/Check Results" IsSelected="True" ContentId="tool_CompileCheckControl" />
+          </LayoutAnchorablePane>
+        </LayoutAnchorablePaneGroup>
+      </LayoutPanel>
+      <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="300">
+        <LayoutAnchorablePane DockWidth="300">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Channel #0" IsSelected="True" ContentId="tool_TerminalControl_0" LastActivationTimeStamp="04/29/2020 15:17:22" />
+        </LayoutAnchorablePane>
+        <LayoutAnchorablePane>
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Toolbox" IsSelected="True" ContentId="tool_ToolBoxControl" LastActivationTimeStamp="04/29/2020 12:09:16" />
+        </LayoutAnchorablePane>
+      </LayoutAnchorablePaneGroup>
+    </RootPanel>
+    <TopSide />
+    <RightSide />
+    <LeftSide />
+    <BottomSide />
+    <FloatingWindows>
+      <LayoutFloatingWindow xsi:type="LayoutAnchorableFloatingWindow">
+        <RootPanel Orientation="Horizontal" FloatingWidth="334" FloatingHeight="933" FloatingLeft="-923" FloatingTop="115">
+          <LayoutAnchorablePane Id="a6bfb234-8d80-49a7-b845-6232700dbfc2" FloatingWidth="334" FloatingHeight="933" FloatingLeft="-923" FloatingTop="115" />
+        </RootPanel>
+      </LayoutFloatingWindow>
+      <LayoutFloatingWindow xsi:type="LayoutAnchorableFloatingWindow">
+        <RootPanel Orientation="Horizontal" FloatingWidth="800" FloatingHeight="480" FloatingLeft="799" FloatingTop="203">
+          <LayoutAnchorablePane Id="9736cac0-82aa-4f5c-a21a-43d504b592dd" FloatingWidth="800" FloatingHeight="480" FloatingLeft="799" FloatingTop="203" />
+        </RootPanel>
+      </LayoutFloatingWindow>
+      <LayoutFloatingWindow xsi:type="LayoutAnchorableFloatingWindow">
+        <RootPanel Orientation="Horizontal" FloatingWidth="200" FloatingHeight="600" FloatingLeft="182" FloatingTop="182">
+          <LayoutAnchorablePane Id="0d3d064d-3397-43aa-8d05-49cdece10fdd" FloatingWidth="200" FloatingHeight="600" FloatingLeft="182" FloatingTop="182" />
+        </RootPanel>
+      </LayoutFloatingWindow>
+    </FloatingWindows>
+    <Hidden>
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="3D Visualization" IsSelected="True" ContentId="tool_Visualization3DToolControl" FloatingLeft="799" FloatingTop="203" FloatingWidth="800" FloatingHeight="480" LastActivationTimeStamp="04/29/2020 16:01:02" PreviousContainerId="9736cac0-82aa-4f5c-a21a-43d504b592dd" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Table Viewer" ContentId="tool_VRViewerControl" FloatingLeft="182" FloatingTop="182" FloatingWidth="200" FloatingHeight="600" LastActivationTimeStamp="04/29/2020 17:04:45" PreviousContainerId="0d3d064d-3397-43aa-8d05-49cdece10fdd" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Axis Parameters" ContentId="tool_AxisParametersControl" FloatingLeft="-923" FloatingTop="115" FloatingWidth="334" FloatingHeight="933" LastActivationTimeStamp="04/29/2020 19:04:22" PreviousContainerId="a6bfb234-8d80-49a7-b845-6232700dbfc2" PreviousContainerIndex="0" />
+    </Hidden>
+  </LayoutRoot>
+</MotionPerfectLayout>

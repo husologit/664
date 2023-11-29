@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Version="1" VersionMinor="1" ProductId="464" ProductName="MC464">
+    <Environment>
+        <Software SoftwareVersion="4.3.3.17296" />
+        <Controller ControllerVersion="2.0293" ControllerFPGAVersion="29">
+            <Modules>
+                <Module ModuleId="39" FPGAVersion="29" />
+            </Modules>
+        </Controller>
+    </Environment>
+    <Items>
+        <Item Type="basic" Name="MIAN" FileName="MIAN.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+    </Items>
+</Project>

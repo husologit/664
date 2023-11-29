@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Version="1" VersionMinor="1" ProductId="400" ProductName="MC400">
+    <Environment>
+        <Software SoftwareVersion="5.0.1.21120" />
+        <Controller ControllerVersion="2.0303018004" ControllerFPGAVersion="0">
+            <Modules />
+        </Controller>
+    </Environment>
+    <Items>
+        <Item Type="basic" Name="MIAN" FileName="MIAN.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+    </Items>
+</Project>

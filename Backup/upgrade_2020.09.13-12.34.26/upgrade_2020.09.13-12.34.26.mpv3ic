@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="tool_ControllerTreeControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program_MIAN" />
+  <Content Name="tool_AxisParametersControl">
+    <Tool IsPeriodicUpdateEnabled="true" DisplayAs="0">
+      <AxesInUse>
+        <Index>0</Index>
+        <Index>1</Index>
+      </AxesInUse>
+      <Groups>
+        <Group Name="Gains" IsExpanded="false" />
+        <Group Name="Misc" IsExpanded="false" />
+      </Groups>
+    </Tool>
+  </Content>
+  <Content Name="tool_Visualization3DToolControl">
+    <Tool>
+      <ModelPath>C:\Program Files (x86)\TrioMotion\MotionPerfectV4.3\PlugIns\Visualization3D\Models\Gantry\Gantry.mprobo</ModelPath>
+      <Engine3D FillMode="Solid" ShowCS="true" ShowGrid="false">
+        <Camera3D Zoom="1.1" Perspective="false" Pivot="18.01657,-3.653541,15.05992" Orientation="-0.4061364,-0.04470204,-0.2752618,0.8702217" />
+      </Engine3D>
+      <JointMaps>
+        <JointMap ModelID="C:\Program Files (x86)\TrioMotion\MotionPerfectV4.3\PlugIns\Visualization3D\Models\Gantry\Gantry.mprobo">
+          <JointToAxisMap Axis="1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j0" />
+          <JointToAxisMap Axis="0" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j1" />
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j2" />
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j3" />
+          <JointToAxisMap Axis="-1" ParamName="AXIS_DPOS" Offset="0" Scale="1" JointID="j4" />
+        </JointMap>
+      </JointMaps>
+      <StandardJointDisplay>
+        <StandardJointDisplay ShowLabels="true" ShowHierarchy="false" ShowPointers="false" ModelID="C:\Program Files (x86)\TrioMotion\MotionPerfectV4.3\PlugIns\Visualization3D\Models\Gantry\Gantry.mprobo">
+          <LabelUIParams JointID="j0" Pinned="true" PinX="0.010126582278481013" PinY="0.71097345132743361" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j1" Pinned="true" PinX="0.010126582278481013" PinY="0.61088495575221236" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j2" Pinned="true" PinX="0.010126582278481013" PinY="0.5107964601769911" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j3" Pinned="true" PinX="0.010126582278481013" PinY="0.41070796460176989" FloatOffsetX="8" FloatOffsetY="8" />
+          <LabelUIParams JointID="j4" Pinned="true" PinX="0.010126582278481013" PinY="0.31061946902654863" FloatOffsetX="8" FloatOffsetY="8" />
+        </StandardJointDisplay>
+      </StandardJointDisplay>
+    </Tool>
+  </Content>
+  <Content Name="Document_Program_TEST" />
+  <Content Name="tool_VRViewerControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+</Contents>

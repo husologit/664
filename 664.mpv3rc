@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents>
+  <Content Name="Project">
+    <Project>
+      <Items>
+        <Item Type="basic" Name="MIAN" />
+      </Items>
+    </Project>
+  </Content>
+</Contents>
